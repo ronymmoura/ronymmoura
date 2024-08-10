@@ -2,7 +2,7 @@
 ## Wellcome!👋 
 
 - 💻 Currently a Software Architect at [Intech](https://www.intech.com.br)<br>
-- 🦾 Looking to collaborate with Typescript, React/React Native, Node.js, C#<br>
+- 🦾 Looking to collaborate with Typescript, React/React Native, Node.js, C#, Golang<br>
 - 🌎 Wanna see the world<br>
 
 <div>
